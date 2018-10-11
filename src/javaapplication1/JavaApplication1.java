@@ -92,4 +92,8 @@ class Manusia2{  //manusia adalah kertangka objek
        public String getIdentitas(){
            return "nama " + nama + "genre :" +genre+ "usia: " +usia; 
        }
+       
+       public String helloHusna(){
+           return "Hello Husna";
+       }
 }
