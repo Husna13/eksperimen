@@ -96,4 +96,8 @@ class Manusia2{  //manusia adalah kertangka objek
        public String helloHusna(){
            return "Hello Husna";
        }
+       
+       public String haiSenpai(){
+           return "haiSenpai";
+       }
 }
