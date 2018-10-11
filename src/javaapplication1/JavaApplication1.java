@@ -103,4 +103,7 @@ class Manusia2{  //manusia adalah kertangka objek
        public int a(){
            return 1;
        }
+       public int b(){
+           return 2;
+       }
 }
