@@ -100,4 +100,7 @@ class Manusia2{  //manusia adalah kertangka objek
        public String haiSenpai(){
            return "haiSenpai";
        }
+       public int a(){
+           return 1;
+       }
 }
